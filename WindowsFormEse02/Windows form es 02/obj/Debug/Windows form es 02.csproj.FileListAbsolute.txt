@@ -1,0 +1,11 @@
+I:\Coding\C#\Form\Info Teoria\Windows form es 02\Windows form es 02\bin\Debug\Windows form es 02.exe.config
+I:\Coding\C#\Form\Info Teoria\Windows form es 02\Windows form es 02\bin\Debug\Windows form es 02.exe
+I:\Coding\C#\Form\Info Teoria\Windows form es 02\Windows form es 02\bin\Debug\Windows form es 02.pdb
+I:\Coding\C#\Form\Info Teoria\Windows form es 02\Windows form es 02\obj\Debug\Windows form es 02.csprojAssemblyReference.cache
+I:\Coding\C#\Form\Info Teoria\Windows form es 02\Windows form es 02\obj\Debug\Windows_form_es_02.Properties.Resources.resources
+I:\Coding\C#\Form\Info Teoria\Windows form es 02\Windows form es 02\obj\Debug\Windows form es 02.csproj.GenerateResource.cache
+I:\Coding\C#\Form\Info Teoria\Windows form es 02\Windows form es 02\obj\Debug\Windows form es 02.exe
+I:\Coding\C#\Form\Info Teoria\Windows form es 02\Windows form es 02\obj\Debug\Windows form es 02.pdb
+I:\Coding\C#\Form\Info Teoria\Windows form es 02\Windows form es 02\obj\Debug\Windows_form_es_02.formFiglia1.resources
+I:\Coding\C#\Form\Info Teoria\Windows form es 02\Windows form es 02\obj\Debug\Windows_form_es_02.Figlia2.resources
+I:\Coding\C#\Form\Info Teoria\Windows form es 02\Windows form es 02\obj\Debug\Windows_form_es_02.Form1.resources
