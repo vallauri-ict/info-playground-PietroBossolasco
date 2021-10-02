@@ -1,0 +1,11 @@
+I:\Coding\C#\Form\Info Teoria\WindowsFormsEsePreparazioneVerifica\WindowsFormsEsePreparazioneVerifica\bin\Debug\WindowsFormsEsePreparazioneVerifica.exe.config
+I:\Coding\C#\Form\Info Teoria\WindowsFormsEsePreparazioneVerifica\WindowsFormsEsePreparazioneVerifica\bin\Debug\WindowsFormsEsePreparazioneVerifica.exe
+I:\Coding\C#\Form\Info Teoria\WindowsFormsEsePreparazioneVerifica\WindowsFormsEsePreparazioneVerifica\bin\Debug\WindowsFormsEsePreparazioneVerifica.pdb
+I:\Coding\C#\Form\Info Teoria\WindowsFormsEsePreparazioneVerifica\WindowsFormsEsePreparazioneVerifica\obj\Debug\WindowsFormsEsePreparazioneVerifica.csprojAssemblyReference.cache
+I:\Coding\C#\Form\Info Teoria\WindowsFormsEsePreparazioneVerifica\WindowsFormsEsePreparazioneVerifica\obj\Debug\WindowsFormsEsePreparazioneVerifica.Form1.resources
+I:\Coding\C#\Form\Info Teoria\WindowsFormsEsePreparazioneVerifica\WindowsFormsEsePreparazioneVerifica\obj\Debug\WindowsFormsEsePreparazioneVerifica.Properties.Resources.resources
+I:\Coding\C#\Form\Info Teoria\WindowsFormsEsePreparazioneVerifica\WindowsFormsEsePreparazioneVerifica\obj\Debug\WindowsFormsEsePreparazioneVerifica.csproj.GenerateResource.cache
+I:\Coding\C#\Form\Info Teoria\WindowsFormsEsePreparazioneVerifica\WindowsFormsEsePreparazioneVerifica\obj\Debug\WindowsFormsEsePreparazioneVerifica.exe
+I:\Coding\C#\Form\Info Teoria\WindowsFormsEsePreparazioneVerifica\WindowsFormsEsePreparazioneVerifica\obj\Debug\WindowsFormsEsePreparazioneVerifica.pdb
+I:\Coding\C#\Form\Info Teoria\WindowsFormsEsePreparazioneVerifica\WindowsFormsEsePreparazioneVerifica\obj\Debug\WindowsFormsEsePreparazioneVerifica.FormFiglio1.resources
+I:\Coding\C#\Form\Info Teoria\WindowsFormsEsePreparazioneVerifica\WindowsFormsEsePreparazioneVerifica\obj\Debug\WindowsFormsEsePreparazioneVerifica.FormFIglio2.resources
